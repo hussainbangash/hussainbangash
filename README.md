@@ -8,8 +8,7 @@ that actually runs, is tested, and is documented.
   autonomous JetBot robot, and a production-hardened SaaS auth template.
 - 🧰 Comfortable across the stack — Python (TensorFlow / PyTorch / scikit-learn) and
   TypeScript (Next.js / FastAPI / PostgreSQL).
-- 🎓 IEECS — National Taipei University of Technology (NTUT). <!-- edit if needed -->
-- 📫 Reach me: hussainbangash306@gmail.com <!-- add your LinkedIn here -->
+- 🎓 IEECS — National Taipei University of Technology (NTUT).
 
 ## Featured projects
 
