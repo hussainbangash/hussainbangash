@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Hussain Bangash 👋
+# Hi, I'm Muhammad Hussain Bangash
 
 I build projects across **machine learning, full-stack web, and robotics / embedded** —
 and I like taking each one the whole way: from a model or a research idea to something
@@ -7,7 +7,7 @@ that actually runs, is tested, and is documented.
 - 🔭 Recent work spans deep-learning time-series, a full-stack ML fault-detection app, an
   autonomous JetBot robot, and a production-hardened SaaS auth template.
 - 🧰 Comfortable across the stack — Python (TensorFlow / PyTorch / scikit-learn) and
-  TypeScript (Next.js / FastAPI / PostgreSQL).
+  TypeScript (Next.js / Node.js / FastAPI / PostgreSQL).
 - 🎓 IEECS — National Taipei University of Technology (NTUT).
 
 ## Featured projects
