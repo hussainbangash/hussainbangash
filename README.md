@@ -17,7 +17,7 @@ that actually runs, is tested, and is documented.
 | [🛰️ spacecraft-phm-fault-detection](https://github.com/hussainbangash/spacecraft-phm-fault-detection) | Full-stack fault-diagnosis app for a spacecraft propulsion rig (JAXA / PHMAP-2023) | FastAPI · Next.js · scikit-learn · PostgreSQL | 5-model cascade, **89–100%** per-task accuracy, runs end-to-end |
 | [🏠 smart-home-activity-recognition](https://github.com/hussainbangash/smart-home-activity-recognition) | Deep-learning activity recognition on IoT sensor streams | TensorFlow / Keras | CNN-LSTM vs BiLSTM, **91.3%** accuracy, leakage-free evaluation |
 | [🤖 jetson-target-chasing-robot](https://github.com/hussainbangash/jetson-target-chasing-robot) | Autonomous robot car that detects and follows a target | Jetson Nano · SSD-Mobilenet-v2 · PyTorch · OpenCV | Real-time on-device detection + collision avoidance |
-| [🔐 SaaS-RBAC-Admin-Starter](https://github.com/hussainbangash/SaaS-RBAC-Admin-Starter) | Production-minded SaaS starter with role-based access control | Next.js · Auth.js · Prisma · PostgreSQL | Server-side RBAC, tests + CI, nonce CSP, GitHub template |
+| [🔐 RBAC-Starter](https://github.com/hussainbangash/RBAC-Starter) | Production-minded SaaS starter with role-based access control | Next.js · Auth.js · Prisma · PostgreSQL | Server-side RBAC, tests + CI, nonce CSP, GitHub template, [live demo](https://rbacore.vercel.app) |
 
 ## Tech
 
